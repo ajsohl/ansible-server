@@ -1,2 +1,2 @@
 # ansible-server
-Server to send out standard configurations
+A server to send out standard configurations to devices on my network.
